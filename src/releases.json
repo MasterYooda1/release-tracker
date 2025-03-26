@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring: Nightreign",
+    "type": "Game",
+    "releaseDate": "2025-05-30",
+    "addedDate": "2025-01-01",
+    "notes": "",
+    "isCompleted": false,
+    "anticipation": 8
+  },
+  {
+    "id": 2,
+    "title": "Andor Season 2",
+    "type": "TV-Show",
+    "releaseDate": "2025-04-17",
+    "addedDate": "2025-01-01",
+    "notes": "PEAK",
+    "isCompleted": false,
+    "anticipation": 10
+  },
+  {
+    "id": 1742516763502,
+    "title": "Minecraft Movie",
+    "type": "Movie",
+    "releaseDate": "2025-04-04",
+    "notes": "Also Peak",
+    "isCompleted": false,
+    "addedDate": "2025-03-21",
+    "anticipation": 9
+  },
+  {
+    "id": 1742673819740,
+    "title": "Atomfall",
+    "type": "Game",
+    "releaseDate": "2025-03-27",
+    "notes": "",
+    "isCompleted": false,
+    "addedDate": "2025-03-22",
+    "anticipation": 6
+  },
+  {
+    "id": 1742930269851,
+    "title": "Forensics",
+    "type": "Music",
+    "releaseDate": "2025-03-30",
+    "addedDate": "2025-03-25",
+    "notes": "",
+    "isCompleted": false,
+    "anticipation": "10",
+    "artist": "Mos Def & The Alchemist"
+  },
+  {
+    "id": 1742930377698,
+    "title": "Golliwog",
+    "type": "Music",
+    "releaseDate": "2025-05-09",
+    "notes": "",
+    "artist": "Billy Woods",
+    "anticipation": "7",
+    "isCompleted": false,
+    "addedDate": "2025-03-25"
+  },
+  {
+    "id": 1742930403651,
+    "title": "Lotus",
+    "type": "Music",
+    "releaseDate": "2025-05-09",
+    "notes": "",
+    "artist": "Little Simz",
+    "anticipation": "9",
+    "isCompleted": false,
+    "addedDate": "2025-03-25"
+  }
+]
