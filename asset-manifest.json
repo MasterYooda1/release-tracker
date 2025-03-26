@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/release-tracker/static/css/main.5cfe637b.css",
+    "main.js": "/release-tracker/static/js/main.7037f24e.js",
+    "static/js/453.b4f4a379.chunk.js": "/release-tracker/static/js/453.b4f4a379.chunk.js",
+    "static/media/logo.svg": "/release-tracker/static/media/logo.f093e2ce4ca883103db08c9a66095d72.svg",
+    "index.html": "/release-tracker/index.html",
+    "main.5cfe637b.css.map": "/release-tracker/static/css/main.5cfe637b.css.map",
+    "main.7037f24e.js.map": "/release-tracker/static/js/main.7037f24e.js.map",
+    "453.b4f4a379.chunk.js.map": "/release-tracker/static/js/453.b4f4a379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cfe637b.css",
+    "static/js/main.7037f24e.js"
+  ]
+}
